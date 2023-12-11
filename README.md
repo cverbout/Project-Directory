@@ -12,7 +12,7 @@ In addition to my technical skills, I pride myself on my ability to work collabo
 
 Below are the types of projects I have worked on. Within the directories are several projects each with a brief description and a link to its respective GitHub repository.
 
-### Machine Learning Projects 
+### AI & Machine Learning Projects 
 https://github.com/cverbout/Machine-Learning
 
 ### Full Stack Programming Projects
